@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manishmhrzn
-- 👀 I’m interested in LARAVEL VUE.JS and REACT
+- 👀 I’m interested in LARAVEL VUE.JS 
 - 🌱 I’m currently learning REACT/ NEXT.JS
 - 💞️ I’m looking to collaborate on ... MY LIFE?
 - 📫 How to reach me ... INTROVERT 🎧
